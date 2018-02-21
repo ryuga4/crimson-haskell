@@ -1,7 +1,0 @@
-Configuring hspec-wai-json-0.9.0...
-Preprocessing library for hspec-wai-json-0.9.0..
-Building library for hspec-wai-json-0.9.0..
-[1 of 2] Compiling Paths_hspec_wai_json ( .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/autogen/Paths_hspec_wai_json.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Paths_hspec_wai_json.o )
-[2 of 2] Compiling Test.Hspec.Wai.JSON ( src/Test/Hspec/Wai/JSON.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Test/Hspec/Wai/JSON.o )
-Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/hspec-wai-json-0.9.0-8kSGUMFx8Dr8Iml1qxYjjE
-Registering library for hspec-wai-json-0.9.0..

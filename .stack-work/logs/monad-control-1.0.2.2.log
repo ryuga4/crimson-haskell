@@ -1,6 +1,0 @@
-Configuring monad-control-1.0.2.2...
-Preprocessing library for monad-control-1.0.2.2..
-Building library for monad-control-1.0.2.2..
-[1 of 1] Compiling Control.Monad.Trans.Control ( Control/Monad/Trans/Control.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Control/Monad/Trans/Control.o )
-Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/monad-control-1.0.2.2-3F2lMvzHyc83LMnJJTAzdn
-Registering library for monad-control-1.0.2.2..

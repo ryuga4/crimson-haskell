@@ -1,8 +1,0 @@
-Configuring aeson-qq-0.8.2...
-Preprocessing library for aeson-qq-0.8.2..
-Building library for aeson-qq-0.8.2..
-[1 of 3] Compiling Data.JSON.QQ     ( src/Data/JSON/QQ.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/JSON/QQ.o )
-[2 of 3] Compiling Data.Aeson.QQ    ( src/Data/Aeson/QQ.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/Aeson/QQ.o )
-[3 of 3] Compiling Paths_aeson_qq   ( .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/autogen/Paths_aeson_qq.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Paths_aeson_qq.o )
-Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/aeson-qq-0.8.2-DC9SkZzb1EuK9vbczHh1CQ
-Registering library for aeson-qq-0.8.2..

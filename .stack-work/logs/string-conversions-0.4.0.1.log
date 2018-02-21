@@ -1,7 +1,0 @@
-Configuring string-conversions-0.4.0.1...
-Preprocessing library for string-conversions-0.4.0.1..
-Building library for string-conversions-0.4.0.1..
-[1 of 2] Compiling Data.String.Conversions ( src/Data/String/Conversions.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/String/Conversions.o )
-[2 of 2] Compiling Data.String.Conversions.Monomorphic ( src/Data/String/Conversions/Monomorphic.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/String/Conversions/Monomorphic.o )
-Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/string-conversions-0.4.0.1-J4p8VALcedFG6Ji3axGBgG
-Registering library for string-conversions-0.4.0.1..

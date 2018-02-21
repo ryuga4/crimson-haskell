@@ -1,6 +1,0 @@
-Configuring SHA-1.6.4.2...
-Preprocessing library for SHA-1.6.4.2..
-Building library for SHA-1.6.4.2..
-[1 of 1] Compiling Data.Digest.Pure.SHA ( src/Data/Digest/Pure/SHA.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/Digest/Pure/SHA.o )
-Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/SHA-1.6.4.2-1gNz0XEXVc9D2LWQ8o29zI
-Registering library for SHA-1.6.4.2..
