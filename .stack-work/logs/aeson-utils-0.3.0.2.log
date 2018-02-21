@@ -1,0 +1,6 @@
+Configuring aeson-utils-0.3.0.2...
+Preprocessing library for aeson-utils-0.3.0.2..
+Building library for aeson-utils-0.3.0.2..
+[1 of 1] Compiling Data.Aeson.Utils ( src/Data/Aeson/Utils.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/Aeson/Utils.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/aeson-utils-0.3.0.2-CFYIYyv6PX9LqLC9PidnUx
+Registering library for aeson-utils-0.3.0.2..

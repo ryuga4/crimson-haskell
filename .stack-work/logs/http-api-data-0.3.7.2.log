@@ -1,0 +1,12 @@
+[1 of 2] Compiling Main             ( /tmp/stack3755/http-api-data-0.3.7.2/Setup.lhs, /tmp/stack3755/http-api-data-0.3.7.2/.stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/setup/Main.o )
+[2 of 2] Compiling StackSetupShim   ( /home/me/.stack/setup-exe-src/setup-shim-mPHDZzAJ.hs, /tmp/stack3755/http-api-data-0.3.7.2/.stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/setup/StackSetupShim.o )
+Linking /tmp/stack3755/http-api-data-0.3.7.2/.stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/setup/setup ...
+Configuring http-api-data-0.3.7.2...
+Preprocessing library for http-api-data-0.3.7.2..
+Building library for http-api-data-0.3.7.2..
+[1 of 4] Compiling Web.Internal.HttpApiData ( src/Web/Internal/HttpApiData.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Web/Internal/HttpApiData.o )
+[2 of 4] Compiling Web.Internal.FormUrlEncoded ( src/Web/Internal/FormUrlEncoded.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Web/Internal/FormUrlEncoded.o )
+[3 of 4] Compiling Web.FormUrlEncoded ( src/Web/FormUrlEncoded.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Web/FormUrlEncoded.o )
+[4 of 4] Compiling Web.HttpApiData  ( src/Web/HttpApiData.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Web/HttpApiData.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/http-api-data-0.3.7.2-EDov8DzBSeS8qWFrFntzAL
+Registering library for http-api-data-0.3.7.2..

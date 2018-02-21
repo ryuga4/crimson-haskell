@@ -1,0 +1,40 @@
+Configuring http-types-0.9.1...
+Preprocessing library for http-types-0.9.1..
+Building library for http-types-0.9.1..
+[1 of 7] Compiling Network.HTTP.Types.Header ( Network/HTTP/Types/Header.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/Header.o )
+[2 of 7] Compiling Network.HTTP.Types.Method ( Network/HTTP/Types/Method.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/Method.o )
+[3 of 7] Compiling Network.HTTP.Types.Status ( Network/HTTP/Types/Status.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/Status.o )
+[4 of 7] Compiling Network.HTTP.Types.URI ( Network/HTTP/Types/URI.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/URI.o )
+
+[;1mNetwork/HTTP/Types/URI.hs:148:26: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wdeprecations[0m[0m[;1m][0m[0m[;1m
+    In the use of ‘breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m148 |[0m[0m             let (k, v) = [;1m[35mB.breakByte[0m[0m 61 x -- equal sign
+[;1m[34m    |[0m[0m[;1m[35m                          ^^^^^^^^^^^[0m[0m
+[0m[0m[0m
+[;1mNetwork/HTTP/Types/URI.hs:283:22: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wdeprecations[0m[0m[;1m][0m[0m[;1m
+    In the use of ‘breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m283 |[0m[0m         let (x, y) = [;1m[35mB.breakByte[0m[0m 47 bs
+[;1m[34m    |[0m[0m[;1m[35m                      ^^^^^^^^^^^[0m[0m
+[0m[0m[0m
+[;1mNetwork/HTTP/Types/URI.hs:313:20: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wdeprecations[0m[0m[;1m][0m[0m[;1m
+    In the use of ‘breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m313 |[0m[0m     breakOnSlash = [;1m[35mB.breakByte[0m[0m 47
+[;1m[34m    |[0m[0m[;1m[35m                    ^^^^^^^^^^^[0m[0m
+[0m[0m[0m
+[;1mNetwork/HTTP/Types/URI.hs:325:18: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wdeprecations[0m[0m[;1m][0m[0m[;1m
+    In the use of ‘breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m325 |[0m[0m     let (x, y) = [;1m[35mB.breakByte[0m[0m 63 b -- question mark
+[;1m[34m    |[0m[0m[;1m[35m                  ^^^^^^^^^^^[0m[0m
+[0m[0m[0m[5 of 7] Compiling Network.HTTP.Types.QueryLike ( Network/HTTP/Types/QueryLike.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/QueryLike.o )
+[6 of 7] Compiling Network.HTTP.Types.Version ( Network/HTTP/Types/Version.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types/Version.o )
+[7 of 7] Compiling Network.HTTP.Types ( Network/HTTP/Types.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Network/HTTP/Types.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/http-types-0.9.1-HzyF6muJnmmJbQLAAvdjHQ
+Registering library for http-types-0.9.1..

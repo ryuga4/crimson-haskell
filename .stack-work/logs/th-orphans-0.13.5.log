@@ -1,0 +1,6 @@
+Configuring th-orphans-0.13.5...
+Preprocessing library for th-orphans-0.13.5..
+Building library for th-orphans-0.13.5..
+[1 of 1] Compiling Language.Haskell.TH.Instances ( src/Language/Haskell/TH/Instances.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Language/Haskell/TH/Instances.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/th-orphans-0.13.5-1OTEWC26nEiAroTWM9wQvr
+Registering library for th-orphans-0.13.5..

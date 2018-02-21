@@ -1,0 +1,13 @@
+Configuring th-lift-0.7.8...
+Preprocessing library for th-lift-0.7.8..
+Building library for th-lift-0.7.8..
+[1 of 1] Compiling Language.Haskell.TH.Lift ( src/Language/Haskell/TH/Lift.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Language/Haskell/TH/Lift.o )
+
+[;1msrc/Language/Haskell/TH/Lift.hs:247:15: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wname-shadowing[0m[0m[;1m][0m[0m[;1m
+    This binding for ‘nameSpace’ shadows the existing binding
+      imported from ‘Language.Haskell.TH.Syntax’ at src/Language/Haskell/TH/Lift.hs:38:1-33[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m247 |[0m[0m   lift (NameG [;1m[35mnameSpace[0m[0m pkgName modnam)
+[;1m[34m    |[0m[0m[;1m[35m               ^^^^^^^^^[0m[0m
+[0m[0m[0mInstalling library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/th-lift-0.7.8-9WoT75e11sF5vCUkzmby5Q
+Registering library for th-lift-0.7.8..

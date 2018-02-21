@@ -1,0 +1,7 @@
+Configuring hashmap-1.3.3...
+Preprocessing library for hashmap-1.3.3..
+Building library for hashmap-1.3.3..
+[1 of 2] Compiling Data.HashMap     ( Data/HashMap.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/HashMap.o )
+[2 of 2] Compiling Data.HashSet     ( Data/HashSet.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/HashSet.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/hashmap-1.3.3-99e6rUouz7z2hYwp7iV7JL
+Registering library for hashmap-1.3.3..

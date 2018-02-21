@@ -1,0 +1,7 @@
+Configuring attoparsec-iso8601-1.0.0.0...
+Preprocessing library for attoparsec-iso8601-1.0.0.0..
+Building library for attoparsec-iso8601-1.0.0.0..
+[1 of 2] Compiling Data.Attoparsec.Time.Internal ( Data/Attoparsec/Time/Internal.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/Attoparsec/Time/Internal.o )
+[2 of 2] Compiling Data.Attoparsec.Time ( Data/Attoparsec/Time.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Data/Attoparsec/Time.o )
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/attoparsec-iso8601-1.0.0.0-CDXenRjvF64G8SiUEGlWqH
+Registering library for attoparsec-iso8601-1.0.0.0..

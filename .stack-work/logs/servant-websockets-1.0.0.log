@@ -1,0 +1,17 @@
+Configuring servant-websockets-1.0.0...
+Preprocessing library for servant-websockets-1.0.0..
+Building library for servant-websockets-1.0.0..
+[1 of 2] Compiling Servant.API.WebSocket ( src/Servant/API/WebSocket.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Servant/API/WebSocket.o )
+[2 of 2] Compiling Servant.API.WebSocketConduit ( src/Servant/API/WebSocketConduit.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/Servant/API/WebSocketConduit.o )
+Preprocessing executable 'websocket-stream' for servant-websockets-1.0.0..
+Building executable 'websocket-stream' for servant-websockets-1.0.0..
+[1 of 1] Compiling Main             ( examples/Stream.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/websocket-stream/websocket-stream-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/websocket-stream/websocket-stream ...
+Preprocessing executable 'websocket-echo' for servant-websockets-1.0.0..
+Building executable 'websocket-echo' for servant-websockets-1.0.0..
+[1 of 1] Compiling Main             ( examples/Echo.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/websocket-echo/websocket-echo-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.1.0/build/websocket-echo/websocket-echo ...
+Installing library in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/lib/x86_64-linux-ghc-8.2.2/servant-websockets-1.0.0-8M24Ekv934F9vd55aSJxta
+Installing executable websocket-stream in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/bin
+Installing executable websocket-echo in /home/me/.stack/snapshots/x86_64-linux-nopie/lts-10.5/8.2.2/bin
+Registering library for servant-websockets-1.0.0..
