@@ -17,6 +17,8 @@ data Room = Room
           , gameState :: GameState
           }
 
+
+
 instance Show Room where
   show r = show (gameState r, [x | (x,_) <- clients r])
 

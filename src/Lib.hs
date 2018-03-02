@@ -113,12 +113,12 @@ listen conn state = forever $ do
   msg <- WS.receiveData conn |$> (eitherDecode >=> valueToObject)
   let body  = msg >>= maybeToEither "Bad body" . HM.lookup "body"
   let topic = msg >>= maybeToEither "Bad topic" . (HM.lookup "topic" >=> Prs.fromValue)
-  route' state topic body
+  route' state topic body conn
 
-route' :: STM.TVar St.State -> Either String Text -> Either String Value -> IO ()
-route' _ (Left s)      _         = print s
-route' _ _             (Left s)  = print s
-route' _ (Right topic) (Right _) =
+route' :: STM.TVar St.State -> Either String Text -> Either String Value -> WS.Connection -> IO ()
+route' _ (Left s)      _         _ = print s
+route' _ _             (Left s)  _ = print s
+route' _ (Right topic) (Right _) _ =
   case topic of
     "add_player" -> putStrLn "add player"
     _            -> putStrLn "jakaś dziwna wiadomość"
