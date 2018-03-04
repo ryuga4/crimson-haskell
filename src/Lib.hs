@@ -34,7 +34,6 @@ maxFps = 10000
 -------------------------------------
 type API = "ws" :> QueryParam "user" Text :> QueryParam "room" Text :> WS.WebSocket
 
-
 startApp :: IO ()
 startApp = do
   state <- STM.newTVarIO St.initial
@@ -73,7 +72,7 @@ server state = streamData
       >> putStrLn ("User " ++ show n ++ " left room " ++ show r ++ "") -- info state
 
 
-timeSpan (C.TimeSpec {C.sec=s1, C.nsec=n1}) (C.TimeSpec {C.sec=s2, C.nsec=n2}) = n2-n1 + (1000000000 * (s2-s1))
+timeSpan C.TimeSpec{C.sec=s1, C.nsec=n1} C.TimeSpec{C.sec=s2, C.nsec=n2} = n2-n1 + (1000000000 * (s2-s1))
 
 measureTime :: IO a -> IO Int64
 measureTime a = liftM3 (\s _ e -> timeSpan s e) (C.getTime C.Monotonic) a (C.getTime C.Monotonic)
